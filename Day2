@@ -1,0 +1,8 @@
+abtalks-60-days-claude-challenge/
+│
+├── README.md
+├── assets/
+│   └── prompt-engineering-day-2.png
+│
+└── day-02/
+    └── notes.md
